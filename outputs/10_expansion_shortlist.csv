@@ -1,0 +1,4 @@
+city_name,revenue,estimated_rent,active_customers,estimated_consumers,revenue_per_customer,rent_per_customer
+Pune,1258290,15300,52,1875000.0,24197.88,294.23
+Chennai,944120,17100,42,2775000.0,22479.05,407.14
+Bangalore,860110,29700,39,3075000.0,22054.1,761.54

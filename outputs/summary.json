@@ -1,0 +1,42 @@
+{
+  "row_counts": {
+    "city": 14,
+    "products": 28,
+    "customers": 497,
+    "calendar_months": 22,
+    "sales": 10388
+  },
+  "first_sale": "2023-01-01",
+  "last_sale": "2024-10-01",
+  "total_revenue": "6070190",
+  "shortlist": [
+    {
+      "city_name": "Pune",
+      "revenue": 1258290,
+      "estimated_rent": 15300,
+      "active_customers": 52,
+      "estimated_consumers": 1875000.0,
+      "revenue_per_customer": 24197.88,
+      "rent_per_customer": 294.23
+    },
+    {
+      "city_name": "Chennai",
+      "revenue": 944120,
+      "estimated_rent": 17100,
+      "active_customers": 42,
+      "estimated_consumers": 2775000.0,
+      "revenue_per_customer": 22479.05,
+      "rent_per_customer": 407.14
+    },
+    {
+      "city_name": "Bangalore",
+      "revenue": 860110,
+      "estimated_rent": 29700,
+      "active_customers": 39,
+      "estimated_consumers": 3075000.0,
+      "revenue_per_customer": 22054.1,
+      "rent_per_customer": 761.54
+    }
+  ],
+  "q4_2023_revenue": 1963300
+}

@@ -1,0 +1,43 @@
+city_name,product_name,sales_count,product_rank
+Bangalore,Cheesy Jalapeño Pizza (Medium),197,1
+Bangalore,Pepperoni Pizza (Large),167,2
+Bangalore,Four Cheese Pizza (Large),150,3
+Chennai,Cheesy Jalapeño Pizza (Medium),192,1
+Chennai,Classic Neapolitan Pizza (Regular),181,2
+Chennai,Four Cheese Pizza (Large),172,3
+Pune,Cheesy Jalapeño Pizza (Medium),259,1
+Pune,Pepperoni Pizza (Large),254,2
+Pune,Four Cheese Pizza (Large),245,3
+Jaipur,Cheesy Jalapeño Pizza (Medium),178,1
+Jaipur,Classic Neapolitan Pizza (Regular),175,2
+Jaipur,Four Cheese Pizza (Large),170,3
+Delhi,Pepperoni Pizza (Large),183,1
+Delhi,Four Cheese Pizza (Large),170,2
+Delhi,Classic Neapolitan Pizza (Regular),161,3
+Mumbai,Pepperoni Pizza (Large),62,1
+Mumbai,Four Cheese Pizza (Large),60,2
+Mumbai,Cheesy Jalapeño Pizza (Medium),53,3
+Hyderabad,Four Cheese Pizza (Large),36,1
+Hyderabad,Cheesy Jalapeño Pizza (Medium),28,2
+Hyderabad,Pepperoni Pizza (Large),27,3
+Ahmedabad,Cheesy Jalapeño Pizza (Medium),40,1
+Ahmedabad,Classic Neapolitan Pizza (Regular),35,2
+Ahmedabad,Four Cheese Pizza (Large),26,3
+Kolkata,Pepperoni Pizza (Large),45,1
+Kolkata,Cheesy Jalapeño Pizza (Medium),44,2
+Kolkata,Classic Neapolitan Pizza (Regular),38,3
+Surat,Classic Neapolitan Pizza (Regular),48,1
+Surat,Cheesy Jalapeño Pizza (Medium),45,2
+Surat,Pepperoni Pizza (Large),41,3
+Lucknow,Four Cheese Pizza (Large),28,1
+Lucknow,Classic Neapolitan Pizza (Regular),25,2
+Lucknow,Pepperoni Pizza (Large),23,3
+Kanpur,Cheesy Jalapeño Pizza (Medium),57,1
+Kanpur,Pepperoni Pizza (Large),55,2
+Kanpur,Classic Neapolitan Pizza (Regular),50,3
+Nagpur,Pepperoni Pizza (Large),39,1
+Nagpur,Four Cheese Pizza (Large),29,2
+Nagpur,Cheesy Jalapeño Pizza (Medium),28,3
+Indore,Four Cheese Pizza (Large),33,1
+Indore,Pepperoni Pizza (Large),26,2
+Indore,Cheesy Jalapeño Pizza (Medium),26,3
