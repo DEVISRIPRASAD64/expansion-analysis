@@ -1,6 +1,6 @@
 # 317 Pizzas — Expansion Analysis
 
-A readable replica of https://github.com/kal-el95/Expansion-Analysis using its four original CSV datasets. SQL answers the business questions; a small Python runner handles validation, loading and report exports. No pip packages are required.
+SQL answers the business questions; a small Python runner handles validation, loading and report exports. No pip packages are required.
 
 ## Run in two commands
 
